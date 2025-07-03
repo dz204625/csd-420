@@ -1,0 +1,20 @@
+.circle {
+    -fx-fill: white;
+    -fx-stroke: black;
+}
+#redCircle{
+  -fx-fill: red;
+  -fx-stroke :red;
+}
+#greenCircle{
+  -fx-fill: green;
+  -fx-stroke: green;
+}
+.circleBorder {
+  -fx-stroke-width: 5;
+  -fx-stroke-dash-array: 12 2 4 2;
+}
+.border{
+  -fx-border-color: black;
+  -fx-border-width: 5;
+}
